@@ -1,4 +1,3 @@
-import itertools
 from defs import *
 import numpy as np
 import os.path
